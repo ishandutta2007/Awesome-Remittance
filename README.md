@@ -39,42 +39,42 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Remittance & Payment Platforms
 
-- **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)**  
-  Open-source Bitcoin payment processor with self-hosted remittance and invoice capabilities.
-
-- **[OpenCBDC](https://github.com/OpenCBDC)**  
-  Open-source central bank digital currency projects with cross-border payment potential.
-
-- **[Ripple (XRP Ledger)](https://github.com/ripple/rippled)**  
-  Open-source blockchain for fast international payments and remittances.
-
-- **[Stellar](https://github.com/stellar/stellar-core)**  
-  Open-source distributed ledger for cross-border payments and remittances.
-
-- **[Lightning Network](https://github.com/lightningnetwork/lnd)**  
-  Open-source Layer 2 Bitcoin protocol for instant and low-cost micro-remittances.
-
-- **[Bisq](https://github.com/bisq-network/bisq)**  
-  Decentralized peer-to-peer exchange with built-in remittance and fiat-to-crypto features.
-
-- **[n8n Payment Workflows](https://github.com/n8n-io/n8n)**  
+- **[n8n Payment Workflows](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source automation tool for building custom remittance and payment processing pipelines.
 
-- **[Huginn Remittance Agents](https://github.com/huginn/huginn)**  
+- **[Huginn Remittance Agents](https://github.com/huginn/huginn)** [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
   Open-source automation agent for monitoring exchange rates and triggering transfers.
 
-- **[Open-Transactions](https://github.com/Open-Transactions/opentxs)**  
+- **[Monero GUI / CLI](https://github.com/monero-project/monero)** [![GitHub stars](https://img.shields.io/github/stars/monero-project/monero?style=social&color=white)](https://github.com/monero-project/monero/stargazers)  
+  Privacy-focused cryptocurrency with strong remittance use cases.
+
+- **[Lightning Network](https://github.com/lightningnetwork/lnd)** [![GitHub stars](https://img.shields.io/github/stars/lightningnetwork/lnd?style=social&color=white)](https://github.com/lightningnetwork/lnd/stargazers)  
+  Open-source Layer 2 Bitcoin protocol for instant and low-cost micro-remittances.
+
+- **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)** [![GitHub stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers)  
+  Open-source Bitcoin payment processor with self-hosted remittance and invoice capabilities.
+
+- **[Bisq](https://github.com/bisq-network/bisq)** [![GitHub stars](https://img.shields.io/github/stars/bisq-network/bisq?style=social&color=white)](https://github.com/bisq-network/bisq/stargazers)  
+  Decentralized peer-to-peer exchange with built-in remittance and fiat-to-crypto features.
+
+- **[Ripple (XRP Ledger)](https://github.com/ripple/rippled)** [![GitHub stars](https://img.shields.io/github/stars/ripple/rippled?style=social&color=white)](https://github.com/ripple/rippled/stargazers)  
+  Open-source blockchain for fast international payments and remittances.
+
+- **[Stellar](https://github.com/stellar/stellar-core)** [![GitHub stars](https://img.shields.io/github/stars/stellar/stellar-core?style=social&color=white)](https://github.com/stellar/stellar-core/stargazers)  
+  Open-source distributed ledger for cross-border payments and remittances.
+
+- **[Open-Transactions](https://github.com/Open-Transactions/opentxs)** [![GitHub stars](https://img.shields.io/github/stars/Open-Transactions/opentxs?style=social&color=white)](https://github.com/Open-Transactions/opentxs/stargazers)  
   Open-source financial cryptography library for building secure payment and remittance systems.
 
-- **[Monero GUI / CLI](https://github.com/monero-project/monero)**  
-  Privacy-focused cryptocurrency with strong remittance use cases.
+- **[OpenCBDC](https://github.com/OpenCBDC)** [![GitHub stars](https://img.shields.io/github/stars/OpenCBDC/OpenCBDC?style=social&color=white)](https://github.com/OpenCBDC/OpenCBDC/stargazers)  
+  Open-source central bank digital currency projects with cross-border payment potential.
 
 ### Additional Strong Open-Source Options
 
-- **[Fedimint](https://github.com/fedimint/fedimint)** — Federated eCash for scalable, private remittances.
-- **[Cashu](https://github.com/cashubtc/cashu)** — Ecash protocol for private Bitcoin payments.
-- **[ccxt](https://github.com/ccxt/ccxt)** — Cryptocurrency exchange library for building remittance bridges.
-- **[Hummingbot](https://github.com/hummingbot/hummingbot)** — Open-source trading bot framework adaptable for arbitrage and remittance optimization.
+- **[ccxt](https://github.com/ccxt/ccxt)** [![GitHub stars](https://img.shields.io/github/stars/ccxt/ccxt?style=social&color=white)](https://github.com/ccxt/ccxt/stargazers) — Cryptocurrency exchange library for building remittance bridges.
+- **[Hummingbot](https://github.com/hummingbot/hummingbot)** [![GitHub stars](https://img.shields.io/github/stars/hummingbot/hummingbot?style=social&color=white)](https://github.com/hummingbot/hummingbot/stargazers) — Open-source trading bot framework adaptable for arbitrage and remittance optimization.
+- **[Cashu](https://github.com/cashubtc/cashu)** [![GitHub stars](https://img.shields.io/github/stars/cashubtc/cashu?style=social&color=white)](https://github.com/cashubtc/cashu/stargazers) — Ecash protocol for private Bitcoin payments.
+- **[Fedimint](https://github.com/fedimint/fedimint)** [![GitHub stars](https://img.shields.io/github/stars/fedimint/fedimint?style=social&color=white)](https://github.com/fedimint/fedimint/stargazers) — Federated eCash for scalable, private remittances.
 - **[Many Lightning Network** and **Layer 2** solutions for low-cost transfers.
 - Community **stablecoin bridge** and **CBDC interoperability** projects.
 
