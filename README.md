@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Remittance Banner" />
+</div>
+
 # Awesome-Remittance
 ## Top Remittance Platforms Ecosystem
 
