@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" alt="Awesome Remittance Banner" />
 </div>
 
-# Awesome-Remittance
-## Top Remittance Platforms Ecosystem
+# 🚀 Awesome-Remittance
+## 🌍 Top Remittance Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on International Money Transfers, Cross-Border Payments & Remittances*  
@@ -17,15 +17,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📋 Table of Contents
+- [🏢 SaaS Products](#saas-products)
+- [💻 Open-Source GitHub Projects](#open-source-github-projects)
+- [🤝 How to Contribute](#how-to-contribute)
+- [⚠️ Disclaimer](#disclaimer)
 
-## SaaS Products
+## 🏢 SaaS Products
 
-### Core Platforms (Remittance Services)
+### 💸 Core Platforms (Remittance Services)
 
 | Platform | Description | Pricing | Free Tier Limit | Company Size (Valuation) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -35,13 +35,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Sendwave](https://www.sendwave.com/)** | Fast and low-cost mobile money transfer service focused on Africa and major corridors. | Exchange rate margin + variable fee | N/A (Pay-per-transfer) | ~$500 Million |
 | **[TapTap](https://taptap.com/)** | Emerging remittance platform with competitive rates and user-friendly interface. | Zero fee + exchange rate markup | N/A (Pay-per-transfer) |
 
-### Advanced & Specialized Platforms
+### 🌟 Advanced & Specialized Platforms
 
 **Other notable mentions**: Western Union, MoneyGram, and various corridor-specific services.
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-### Dedicated Remittance & Payment Platforms
+### 🏦 Dedicated Remittance & Payment Platforms
 
 - **[n8n Payment Workflows](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source automation tool for building custom remittance and payment processing pipelines.
@@ -73,7 +73,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[OpenCBDC](https://github.com/OpenCBDC)** [![GitHub stars](https://img.shields.io/github/stars/OpenCBDC/OpenCBDC?style=social&color=white)](https://github.com/OpenCBDC/OpenCBDC/stargazers)  
   Open-source central bank digital currency projects with cross-border payment potential.
 
-### Additional Strong Open-Source Options
+### 🛠️ Additional Strong Open-Source Options
 
 - **[ccxt](https://github.com/ccxt/ccxt)** [![GitHub stars](https://img.shields.io/github/stars/ccxt/ccxt?style=social&color=white)](https://github.com/ccxt/ccxt/stargazers) — Cryptocurrency exchange library for building remittance bridges.
 - **[Hummingbot](https://github.com/hummingbot/hummingbot)** [![GitHub stars](https://img.shields.io/github/stars/hummingbot/hummingbot?style=social&color=white)](https://github.com/hummingbot/hummingbot/stargazers) — Open-source trading bot framework adaptable for arbitrage and remittance optimization.
@@ -84,7 +84,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **BTCPay Server**, **Stellar**, **Lightning Network**, and **n8n** with **Ollama** for intelligent, self-hosted remittance solutions.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -93,7 +93,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Cryptocurrency and remittance involve regulatory compliance and financial risk. Always verify local laws.
