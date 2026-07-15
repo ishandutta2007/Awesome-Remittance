@@ -23,20 +23,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Remittance Services)
 
-- **[Sendwave](https://www.sendwave.com/)**  
-  Fast and low-cost mobile money transfer service focused on Africa and major corridors.
-
-- **[Remitly](https://www.remitly.com/)**  
-  Reliable international money transfer platform with strong focus on emerging markets.
-
-- **[Wise (formerly TransferWise)](https://wise.com/)**  
-  Transparent and low-fee international transfers with real mid-market exchange rates.
-
-- **[WorldRemit](https://www.worldremit.com/)**  
-  Global remittance service with cash pickup and mobile money options.
-
-- **[TapTap](https://taptap.com/)**  
-  Emerging remittance platform with competitive rates and user-friendly interface.
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Sendwave](https://www.sendwave.com/)** | Fast and low-cost mobile money transfer service focused on Africa and major corridors. | Exchange rate margin + variable fee | N/A (Pay-per-transfer) |
+| **[Remitly](https://www.remitly.com/)** | Reliable international money transfer platform with strong focus on emerging markets. | Variable fee + exchange rate markup | N/A (Pay-per-transfer) |
+| **[Wise (formerly TransferWise)](https://wise.com/)** | Transparent and low-fee international transfers with real mid-market exchange rates. | Small fixed fee + variable % | N/A (Pay-per-transfer) |
+| **[WorldRemit](https://www.worldremit.com/)** | Global remittance service with cash pickup and mobile money options. | Flat fee + exchange rate markup | N/A (Pay-per-transfer) |
+| **[TapTap](https://taptap.com/)** | Emerging remittance platform with competitive rates and user-friendly interface. | Zero fee + exchange rate markup | N/A (Pay-per-transfer) |
 
 ### Advanced & Specialized Platforms
 
